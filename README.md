@@ -1,3 +1,2 @@
-# Konstantin
-# Logunov
+# Константин Логунов
 
