@@ -1,5 +1,5 @@
 # Константин Логунов 
-*### front-end developer* 
+### *front-end developer* 
 [![https://t.me/kotevega](https://github.com/kotevega/kotevega/blob/main/telegram.svg)](https://t.me/kotevega)
 
 
