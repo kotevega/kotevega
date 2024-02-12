@@ -1,2 +1,3 @@
 # Константин Логунов
-![CSS](https://github.com/kotevega/kotevega/assets/120304580/9eb38b9b-6a0f-45a2-868b-e007bdd4350d)
+![CSS](https://github.com/kotevega/kotevega/assets/120304580/7c189647-4ce1-4eae-88a4-4f652240033c)
+
