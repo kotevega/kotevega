@@ -1,6 +1,4 @@
-# Константин Логунов
-
-[![https://t.me/kotevega](https://github.com/kotevega/kotevega/blob/main/telegram.svg)](https://t.me/kotevega)
+# Константин Логунов                                                                                                                 [![https://t.me/kotevega](https://github.com/kotevega/kotevega/blob/main/telegram.svg)](https://t.me/kotevega)
 
 ### Technology stack
 ![CSS](https://github.com/kotevega/kotevega/assets/120304580/23d55ceb-7154-487a-a58c-3cb185ae4b78) ![HTML](https://github.com/kotevega/kotevega/assets/120304580/40f167e9-0cae-4677-92b4-18960f4abfa6) ![JS](https://github.com/kotevega/kotevega/assets/120304580/fbf229f4-f59a-4b08-a898-6a5ca7d5b5da) ![React](https://github.com/kotevega/kotevega/assets/120304580/bad54772-1fa6-402d-b680-ecd65bc1dfb9)
