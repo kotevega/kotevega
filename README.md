@@ -1,5 +1,5 @@
 # Константин Логунов
-![image](https://github.com/kotevega/kotevega/assets/120304580/d1c9549d-dab1-4b09-ac47-2fc6145d6f61 "https://t.me/kotevega")
+![<https://t.me/kotevega>](https://github.com/kotevega/kotevega/assets/120304580/d1c9549d-dab1-4b09-ac47-2fc6145d6f61)
 
 
 ### Technology stack
