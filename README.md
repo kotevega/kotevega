@@ -1,2 +1,2 @@
 # Константин Логунов
-!(CSS)[http://www.w3.org/2000/svg]
+!(CSS)[https://icons8.ru/icon/21278/css3]
