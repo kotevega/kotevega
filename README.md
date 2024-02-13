@@ -1,6 +1,6 @@
 # Константин Логунов 
 ### *front-end developer* 
-[![https://t.me/kotevega](https://github.com/kotevega/kotevega/blob/main/telegram.svg)](https://t.me/kotevega)
+[![https://t.me/kotevega](https://github.com/kotevega/kotevega/blob/main/telegram.svg)](https://t.me/kotevega) [![https://www.linkedin.com/](https://github.com/kotevega/kotevega/blob/main/images/linkedin.svg)](https://www.linkedin.com/)
 
 ---
 
