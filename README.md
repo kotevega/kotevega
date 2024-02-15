@@ -8,7 +8,7 @@
 
 ---
 ## Проекты:
-* [Landing page Научиться учиться] (https://github.com/kotevega/how-to-learn)
+* [Landing page Научиться учиться](https://github.com/kotevega/how-to-learn)
 
 ---
 
