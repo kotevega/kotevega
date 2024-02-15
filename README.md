@@ -8,7 +8,12 @@
 
 ---
 ## Проекты:
-* [Landing page Научиться учиться](https://github.com/kotevega/how-to-learn)
+* [Itplan](https://github.com/kotevega/itplan)
+* [Movies Explorer](https://github.com/kotevega/movies-explorer-frontend)
+* [Mesto на React](https://github.com/kotevega/react-mesto-api-full-gha)
+* [Mesto на JS](https://github.com/kotevega/mesto)
+* [Адаптивный сайт "Путешествие по России"](https://github.com/kotevega/russian-travel-project)
+* [Landing page "Научиться учиться"](https://github.com/kotevega/how-to-learn)
 
 ---
 
