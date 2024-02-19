@@ -1,6 +1,6 @@
 # Константин Логунов 
 ### *front-end developer* 
-[![https://t.me/kotevega](https://github.com/kotevega/kotevega/blob/main/telegram.svg)](https://t.me/kotevega) [![https://www.linkedin.com/](https://github.com/kotevega/kotevega/blob/main/images/linkedin.svg)](https://www.linkedin.com/)
+[![https://t.me/kotevega](https://github.com/kotevega/kotevega/blob/main/telegram.svg)](https://t.me/kotevega) 
 
 ---
 
@@ -8,7 +8,6 @@
 
 ---
 ## Проекты:
-* [Itplan](https://github.com/kotevega/itplan)
 * [Movies Explorer](https://github.com/kotevega/movies-explorer-frontend)
 * [Mesto на React](https://github.com/kotevega/react-mesto-api-full-gha)
 * [Mesto на JS](https://github.com/kotevega/mesto)
